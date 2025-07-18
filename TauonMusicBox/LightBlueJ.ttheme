@@ -45,7 +45,6 @@
 0,0,0,40        menu icons
 
 #-Bottom panel------
-
 42, 131, 232		buttons off
 123, 168, 249		buttons over
 15, 62, 115		buttons active
@@ -65,7 +64,6 @@
 0,0,0            bottom title
 
 #-Top panel---------
-
 240,240,240      tab active line
 230,230,230      tab line
 240,248,255      tab background
@@ -90,15 +88,13 @@
 70,147,214       box button border
 
 #-Side panel--------
-
-21, 101, 192  active lyric		title info
+21, 101, 192  active lyric
 35,35,35		extra info
 0,0,0,0 		art border
 80,80,80    lyrics text
 21, 101, 192  active lyric
 
 #-Mini Mode---------
-
 21, 101, 192        mini bg
 70,147,214     mini border
 255,255,255     mini text 1
